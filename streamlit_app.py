@@ -54,7 +54,6 @@ except URLError as e:
 # streamlit.dataframe(fruityvice_normalized)
 
 #import snowflake.connector
-streamlit.stop()
 
 streamlit.header('The first load list contains:')
 #snowflake related function
